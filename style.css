@@ -8,7 +8,7 @@ h1{
 span{
     color: rgb(235, 119, 74);
 }
-section{
+.flexc {
     display: flex;
     margin-bottom: 150px;
 }
@@ -36,4 +36,25 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.bby{
+    color: blueviolet;
+}
+.wit{
+    width: 40%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right:5%;
+    box-shadow: 10px 10px 40px  gray;
+    border-left: 7px solid blue;
+    
+    
+}
+.flexc{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.color{
+    border-left: 7px solid yellow;
 }
